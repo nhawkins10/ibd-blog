@@ -1,0 +1,120 @@
+.reader > .sidebar {
+	background-color: #F6F6EE;
+}
+
+.reader .content {
+	background-color: #F6F6EE;
+}
+
+.reader-accent {
+	width: 100%;
+	height: 3px;
+}	
+
+@media (min-width: 970px) {
+	.reader-header {
+		padding: 0 15%;
+		font-family: "Shadows Into Light", Helvetica;
+		letter-spacing: 3px;
+		color: #000;
+	}
+
+	.reader-text {
+		padding: 0 15%;
+		font-size: 18px;
+		max-width: 700px;
+		color: #62615D;
+		letter-spacing: 1px;
+		line-height: 1.5em;
+	}
+
+	.reader-date {
+	  text-align: center;
+	  padding: 40px 15%;
+	  font-weight: bold;
+	  max-width: 700px;
+	  color: #62615D;
+	}
+}
+
+@media (max-width: 970px) {
+	.reader-header {
+		padding: 0 8%;
+		font-family: "Shadows Into Light", Helvetica;
+		letter-spacing: 3px;
+		color: #000;
+	}
+
+	.reader-text {
+		padding: 0 8%;
+		font-size: 18px;
+		max-width: 700px;
+		color: #000;
+		letter-spacing: 1px;
+		line-height: 1.5em;
+	}
+
+	.reader-date {
+	  text-align: center;
+	  /*border-top: 1px solid #ccc;*/
+	  padding: 40px 8%;
+	  font-weight: bold;
+	  max-width: 700px;
+	  color: #62615D;
+	}
+}
+
+.quote {
+	background-color: #eee;
+	padding: 5px;
+	text-align: center;
+}
+
+.tags-header {
+	display: inline-block;
+    color: #62615D;
+}
+
+.tag {
+	text-decoration: none;
+    padding: 0 3px;
+	text-decoration: none;
+	color: #F68A64;
+	background: #EEEED8;
+	white-space: nowrap;
+}
+
+.tag:hover {
+	text-decoration: underline;
+}
+
+.ref-header {
+	font-weight: bold;
+	margin-top: 50px;
+	border-top: 2px solid #EEEED8;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	color: #62615D;
+}
+
+.ref-link {
+	text-decoration: none;
+}
+
+.ref-link:hover > .ref-article {
+	text-decoration: underline;
+}	
+
+.ref-article {
+	color: #62615D;
+}
+
+.ref-site {
+	color: #62615D;
+	font-style: italic;
+	text-indent: 1em;
+}
+
+.reader-date:before {
+	content: 'Published ';
+}		

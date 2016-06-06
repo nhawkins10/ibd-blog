@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="reader">
+	<div class="sidebar">
+		<a href="{{ site.baseurl }}/" class="title">{{ site.title }}</a>
+		<ul class="main-nav">
+			<li><a class="nav-link" href="{{ site.baseurl }}/">Index</a></li>
+			<li><a class="nav-link" href="{{ site.baseurl }}/about">About</a></li>
+			<li><a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a></li>
+		</ul>
+	</div>
+	<div class="content"> 
+		<div class="reader-accent {{ page.color }}-background"></div>
+		<h1 class="reader-header">{{ page.title }}</h1>
+		<div class="reader-text">
+		{{ content }}
+		
+		{% if page.tags %}
+			<div class="tags-header">Tags:</div>
+			{% for tag in page.tags %} 
+				<a class="tag" href='{{ site.baseurl }}/categories/#{{ tag | downcase | replace:" ","-"}}'>{{ tag | downcase | replace:" ","-"}}</a>
+			{% endfor %}
+		{% endif %}
+		
+		{% if page.references %}
+			<div class="ref-header">References</div>
+			{% for item in page.references %}
+				<a class="ref-link" target="_blank" href="{{ item.reference.location }}">
+					<div class="ref-article">{{ item.reference.name }}</div>
+					<div class="ref-site">{{ item.reference.source }}</div>
+				</a>
+			{% endfor %}
+		{% endif %}
+		</div>
+		<div class="reader-date">{{ page.date | date: '%B %-d, %Y' }}</div>
+	</div>
+</div>
+
