@@ -1,0 +1,27 @@
+---
+layout: post
+date: 2015-06-30
+color: red
+title: "Formatting Examples"
+references:
+- reference: 
+    source: "Name of Website"
+    name: "Title of Article"
+    location: "http://www.samplelocation.com/"
+tags:
+- example
+- formatting
+---
+
+This is an example of body text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nulla sem, dignissim quis varius quis, blandit et diam. Vivamus fermentum urna non lorem accumsan tincidunt. Nunc pharetra dolor dapibus, viverra ante sed, hendrerit est. Nulla efficitur id nisl sed convallis. Aliquam eget ex vel ipsum facilisis sagittis nec sit amet orci. Pellentesque neque augue, auctor quis tempor et, ultrices eget sapien. Quisque id libero sit amet orci suscipit egestas sit amet eget justo. Praesent at neque vehicula, iaculis erat molestie, aliquet enim. Nam vitae ipsum nec dui suscipit tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin ac nulla est. Aliquam lobortis ultricies sem, a vestibulum felis maximus nec. Nunc auctor diam sit amet justo scelerisque, et egestas lectus euismod. Cras efficitur aliquet accumsan. Donec vitae purus varius turpis dictum eleifend sed sit amet velit. Nam eu elit ut nisl porttitor sodales.
+
+<div class="quote {{ page.color }}-border">
+	I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent. --Eisenhower
+</div>
+
+
+*Bolded Section Header*
+More body text
+<div><img class="vertical" src="{{ site.baseurl }}/images/eisenhower.jpg">
+	<div class="img-caption">President Eisenhower</div>
+</div>
