@@ -1,0 +1,49 @@
+---
+layout: post
+date: 2016-06-06
+color: red
+title: "Overview of the Digestive Tract"
+references:
+- reference: 
+    source: "Wikipedia"
+    name: "Human digestive system"
+    location: "https://en.wikipedia.org/wiki/Human_digestive_system"
+- reference :
+    source: "NIDDK"
+    name: "Your Digestive System and How It Works "
+    location: "http://www.niddk.nih.gov/health-information/health-topics/Anatomy/your-digestive-system/Pages/anatomy.aspx"
+- reference:
+    source: "Wikipedia"
+    name: "Small intestine"
+    location: "https://en.wikipedia.org/wiki/Small_intestine"
+- reference:
+    source: "Mayo Clinic"
+    name: "Slide show: See how your digestive system works"
+    location: "http://www.mayoclinic.org/digestive-system/sls-20076373?s=6"
+- reference:
+    source: "Wikipedia"
+    name: "Intestinal villus"
+    location: "https://en.wikipedia.org/wiki/Intestinal_villus"
+- reference:
+    source: "Wikipedia"
+    name: "Large intestine"
+    location: "https://en.wikipedia.org/wiki/Large_intestine"
+tags:
+- digestion
+- anatomy
+- getting started
+---
+Today I'd like to give a brief overview of the digestive tract with a specific focus on the lower gastrointestinal (GI) tract. I'm sure everybody studied this in their highschool anatomy class, but if you're like me, you probably don't quite remember everything that was covered. Your digestive tract is a very important body part and is responsible for digesting your food and getting your body the nutrition it needs. The main organs in your GI tract are your stomach, small intestines and large intestines, however there are numerous other organs that play a role in digestion as well. Digestion begins in the mouth and continues in the stomach before the nutrients can be absorbed in the intestines. Since we're focusing on the lower GI tract let's begin with the small intestines. 
+
+<div><img class="vertical" src="http://www.niddk.nih.gov/health-information/health-topics/Anatomy/your-digestive-system/PublishingImages/digest.jpg">
+	<div class="img-caption">Digestive Tract from NIDDK</div>
+</div>
+
+*Small Intestines*
+Food typically begins arriving at your small intestine about an hour after you eat and must be broken down in to smaller components before it can enter the blood stream and be delivered to the cells. The small intestines are typically around 23 feet long, have a diameter of around one inch, and have a surface area of nearly 320 square feet! That sounded huge to me when I first read it, but it makes more sense when you find out that the small intestines are where the majority of food digestion and absorption takes place. All of that space and surface area is needed so that food can be properly digested and absorbed into the body. The majority of the small intestine is covered with tiny hairlike structures called villi. These finger like projections allow nutrients to pass into them through them and enter the blood stream. The large surface area in the small intestines allow for more efficient absorption since the nutrients don't have to travel far to enter one of the villi. 
+
+*Large Intestines*
+The large intestines or colon is the final piece of the digestive tract. It is much shorter and typically has a larger diameter than the small intestine. It usually averages around 5 feet long and 4 inches in diameter, but can vary widely in different individuals. The colon is largely responsible for absorbing the remaining water from the digested food and preparing the undigestable remnants to be disposed of. Food typically takes around 16 hours to move through the colon. There are also a large number of bacteria that live in the colon and provide multiple helpful functions. Some produce vitamins while others aid in the digestive process. We'll look at these bacteria in more detail in a fugure post. Once most of the remaining water has been absorbed, the undigestible remains are stored in the rectum before being expeled through the anus. And thus ends the digestive tract. 
+
+*Wrap Up*
+Hopefully this brief overview has given you a better understanding of the components and functinons of the digestive tract. It plays a very important role in our daily life and yet it's rarely something we give a second thought to. If you'd like to dig deeper into any aspect of this article, check out the reference links at the bottom for more information. 

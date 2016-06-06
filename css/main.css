@@ -133,7 +133,7 @@ body {
 	.post {
 		width: 275px;
 		height: 260px;
-		background-color: #F6F6EE;
+		background-color: #F3F3E7;
 		padding: 0 18px;
 		float: left;
 		margin-left: 40px;
@@ -169,7 +169,7 @@ body {
 	.post {
 		width: calc(100% - 36px);
 		height: 150px;
-		background-color: #F6F6EE;
+		background-color: #F3F3E7;
 		padding: 18px 18px;
 		font-size: 14px;
 	}
