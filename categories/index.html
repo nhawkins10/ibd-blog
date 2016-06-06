@@ -3,7 +3,8 @@ layout: page
 title: Blog Posts by Tag
 permalink: /categories/
 ---
-{% for tag in site.tags %}
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
 	{% assign t = tag | first %}
 	{% assign posts = tag | last %}
 
