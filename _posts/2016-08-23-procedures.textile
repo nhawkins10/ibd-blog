@@ -1,0 +1,47 @@
+---
+layout: post
+date: 2016-08-23
+color: red
+title: "Gastrointestinal Procedures"
+references:
+- reference:
+    source: "Mayo Clinic"
+    name: "Colonoscopy"
+    location: "http://www.mayoclinic.org/tests-procedures/colonoscopy/basics/definition/prc-20013624"
+- reference:
+    source: "MedlinePlus"
+    name: "Sigmoidoscopy"
+    location: "https://medlineplus.gov/ency/article/003885.htm"
+- reference:
+    source: "Wikipedia"
+    name: "Sigmoidoscopy"
+    location: "https://en.wikipedia.org/wiki/Sigmoidoscopy"
+- reference:
+    source: "MedlinePlus"
+    name: "EGD - esophagogastroduodenoscopy"
+    location: "https://medlineplus.gov/ency/article/003888.htm"
+- reference:
+    source: "Johns Hopkins Medicine"
+    name: "Upper GI Endoscopy"
+    location: "http://www.hopkinsmedicine.org/healthlibrary/test_procedures/gastroenterology/esophagogastroduodenoscopy_92,p07717/"
+tags:
+- procedures
+- colonoscopy
+- sigmoidoscopy
+- egd
+- getting started
+---
+
+When dealing with gastrointestinal diseases there are several different procedures that are used to diagnose and monitor these issues. Some of the most common are the colonoscopy, the sigmoidoscopy, and the EGD. All of these are similar in that they allow a physician to see inside your digestive tract, but they also have some differences. In this post we'll dive into what each one is, what the preparation for each is like, and what you can expect during the procedure. 
+
+*Colonoscopy*
+In a colonoscopy, a device called an endoscope is inserted through the rectum and in to the large intestine. The endoscope has a tiny camera in it that allows the physician to view the inside of the large intestine on a monitor. Other tools can also be inserted through the endoscope to allow the physician to perform other tasks during the colonoscopy. This can include the removal of polyps or taking tissue to be sent for biopsy. During a colonoscopy air is often inserted into the large intestine to inflate it and allow the physician to have a better view. This can sometimes cause a feeling of bloating or gassiness after the procedure. This is usually remedied within a short time of the procedure by passing the air. Preparation for a colonoscopy is typically not difficult, but you should follow your physician's instructions carefully so that your colon will be properly prepared for the procedure. Typically you will be asked to follow a liquid diet the day before and the day of the procedure. You will also likely be given a prescription laxitive with two doses; one taken the night before the procedure and one the morning of the procedure. You will also typically be asked to refrain from all food and drink for some period before your procedure. 
+
+*Sigmoidoscopy*
+The sigmoidoscopy is very similar to the colonoscopy in that a scope is inserted through the rectum into the large intestines so that the physician can view the inside of the large bowel. The procedure allows a physician to view only the final third of the small intestines also known as the sigmoid colon. A flexible or rigid divice can be used, though use of the flexible is the most common. These procedures are called a flexible sigmoidoscopy and a rigid sigmoidoscopy respectively. The preparation for a sigmoidoscopy is similar to but not as involved as the preparation for a colonoscopy. Typically the day before the procedure you will be on a clear liquid diet, and will be given a laxative to help empty your colon. Enemas may also be given during the preparation process. The day of your procedure you will typically be asked to refrain from all food and drink for some period prior to the procedure. 
+
+*EGD*
+The EGD is similar to the colonoscopy and sigmoidoscopy except it allows a physician to look at the esophagus, stomach, and the beginning of the small intestine instead of your colon. EGD is short for esophagogastroduodenoscopy. In this procedure an endoscope is inserted through the mouth, down the throat, and into the stomach. This procedure can also involve inserting air to allow the physician to have a better view. Tissue samples can also be taken during this procedure for biopsy. Preparation for this procedure usually involves simply not eating for a period of time before the procedure. 
+
+*Summary*
+All of these procedures are similar in that they allow a physician to view inside your digestive tract to get a better idea of what's going on inside your body. These findings can be used to diagnose gastrointestinal diseases and to guide in the treatment of them. The preparation for any of these procedures, while not always pleasant, is definitely manageable. Hopefully these brief overviews have given you a better understanding of what you can expect when anticipating one of these procedures. 

@@ -1,0 +1,15 @@
+---
+layout: post
+date: 2016-06-06
+color: red
+title: "Gut Bacteria"
+references:
+- reference: 
+    source: "Wikipedia"
+    name: "Human digestive system"
+    location: "https://en.wikipedia.org/wiki/Human_digestive_system"
+tags:
+- digestion
+- anatomy
+- getting started
+---

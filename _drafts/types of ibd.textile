@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2016-06-06
+color: red
+title: "Types of IBD"
+references:
+- reference: 
+    source: "Name of Website"
+    name: "Title of Article"
+    location: "http://www.samplelocation.com/"
+tags:
+- example
+- formatting
+---
